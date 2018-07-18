@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  R",
+        " R ",
+        "S  "
+    ],
+    "key": {
+        "R": { "item": "tm:test_item" },
+        "S": { "item": "minecraft:stick" }
+    },
+    "result": {
+        "item": "tm:test_sword",
+        "count": 1
+    }
+}

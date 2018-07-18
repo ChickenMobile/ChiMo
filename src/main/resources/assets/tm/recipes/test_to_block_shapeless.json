@@ -1,0 +1,13 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        { "item": "tm:test_item" },
+        { "item": "tm:test_item" },
+        { "item": "tm:test_item" },
+        { "item": "tm:test_item" }
+    ],
+    "result": {
+        "item": "tm:test_block",
+        "count": 1
+    }
+}

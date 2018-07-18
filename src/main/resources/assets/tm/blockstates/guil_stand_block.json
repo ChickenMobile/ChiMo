@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "tm:guil_stand_block" }
+    }
+}

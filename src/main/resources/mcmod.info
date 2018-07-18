@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tm",
+  "name": "Test Mod",
+  "description": "ChickenMobile Test Mod",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ChickenMobile"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "tm:smiley_block" },
+        "facing=south": { "model": "tm:smiley_block", "y": 180 },
+        "facing=west":  { "model": "tm:smiley_block", "y": 270 },
+        "facing=east":  { "model": "tm:smiley_block", "y": 90 }
+    }
+}
